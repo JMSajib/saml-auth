@@ -1,0 +1,9 @@
+fastapi[standard]
+redis
+pyjwt
+python3-saml
+itsdangerous
+python-multipart
+requests
+httpx
+python-dotenv
